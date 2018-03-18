@@ -1,0 +1,79 @@
+
+body{
+	background-color: #1a1a1a;
+	//background-image: url("../res/AR.jpg");
+}
+
+.writing{
+	color: white;
+	font-family: "Times New Roman", Times, serif;
+	display: inline-block;
+	padding-left: 5%;
+
+}
+
+.para{
+	color: white;
+	font-family: "Times New Roman", Times, serif;
+	padding-left: 20px;
+	
+}
+
+a{
+	text-decoration: none;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.link{
+	color: white;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.menu{
+	padding-left: 20px;
+}
+
+.bloc2{
+	padding-left: 20px;
+}
+
+#line{
+	color: white;
+	font-family: "Times New Roman", Times, serif;
+
+}
+
+h1 {
+
+	float: right;
+	margin-right: 900px;
+
+}
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
